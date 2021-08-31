@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/movie-rating-service-app/static/css/main.775a3d0b.chunk.css",
+    "main.js": "/movie-rating-service-app/static/js/main.af689096.chunk.js",
+    "main.js.map": "/movie-rating-service-app/static/js/main.af689096.chunk.js.map",
+    "runtime-main.js": "/movie-rating-service-app/static/js/runtime-main.78ffe732.js",
+    "runtime-main.js.map": "/movie-rating-service-app/static/js/runtime-main.78ffe732.js.map",
+    "static/js/2.3eebc9ae.chunk.js": "/movie-rating-service-app/static/js/2.3eebc9ae.chunk.js",
+    "static/js/2.3eebc9ae.chunk.js.map": "/movie-rating-service-app/static/js/2.3eebc9ae.chunk.js.map",
+    "index.html": "/movie-rating-service-app/index.html",
+    "static/css/main.775a3d0b.chunk.css.map": "/movie-rating-service-app/static/css/main.775a3d0b.chunk.css.map",
+    "static/js/2.3eebc9ae.chunk.js.LICENSE.txt": "/movie-rating-service-app/static/js/2.3eebc9ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78ffe732.js",
+    "static/js/2.3eebc9ae.chunk.js",
+    "static/css/main.775a3d0b.chunk.css",
+    "static/js/main.af689096.chunk.js"
+  ]
+}
